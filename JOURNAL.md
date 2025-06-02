@@ -1,8 +1,10 @@
 
 # title: "echoband"
 author: "ashwika srungarapu (@ashwikasrun)
+
 description: "a wearable led wristband that reacts to ambient sound using fft audio analysis."
-created_at: "2024-06-02"
+
+created at: "2024-06-02"
 
 # june 2: kickoff
 
